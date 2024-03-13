@@ -4,11 +4,9 @@ Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvol
 
 As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
 
-Exemplos de referências:
-
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
-
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
+E-COMMERCE BRASIL. No Brasil, 80 mil pessoas já foram vítimas de golpes online em 2023. publicado em 27/10/2023. 
+Disponível em:https://www.ecommercebrasil.com.br/noticias/no-brasil-80-mil-pessoas-ja-foram-vitimas-de-golpes-online-em-2023.
+Acesso em: 12 mar. 2024.
 
 > **Links Úteis**:
 > - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
