@@ -11,7 +11,7 @@
 - Jonas Henrique Teixeira
 - João Victor Dias Ferreira
 - Matheus Henrique Felizardo
-- Theo
+- Theo Rondinelli Camargo
 
 ## Professor
 
