@@ -13,7 +13,7 @@
 - Matheus Henrique Felizardo
 - Theo Rondinelli Camargo
 
-## Professor
+## Professora
 
 - Luciana de Nardin
 
