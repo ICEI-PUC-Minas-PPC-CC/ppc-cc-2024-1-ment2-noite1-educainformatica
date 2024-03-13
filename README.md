@@ -1,19 +1,21 @@
-# TÍTULO DO PROJETO
+# APRESENTAÇÃO - FRAUDES, GOLPES E SEGURANÇA DIGITAL
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`2024 - Semestre 01`
 
 ## Integrantes
 
 - Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Caetano Henrique Muniz Loiola
+- Jonas Henrique Teixeira
+- João Victor Dias Ferreira
+- Matheus Henrique Felizardo
+- Theo
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
 
 # Documentação
 
