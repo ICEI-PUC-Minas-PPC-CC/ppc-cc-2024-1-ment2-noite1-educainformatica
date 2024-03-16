@@ -1,6 +1,6 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Nos últimos anos, o Brasil tem testemunhado um aumento substancial na ocorrência de fraudes e estelionatos no ambiente digital, acarretando prejuízos financeiros e emocionais para uma parcela significativa da população. Pesquisas recentes demonstram que aproximadamente 71% dos brasileiros já foram vítimas dessas práticas, com ênfase nas fraudes financeiras e na violação de dados bancários. Além disso, relatórios indicam que ocorreram cerca de 80 mil golpes apenas no comércio eletrônico. Este estudo tem como objetivo investigar medidas que possam mitigar tais riscos, incluindo educação digital e aperfeiçoamento das legislações pertinentes ao combate ao crime virtual.
 
 ## Problema
 
@@ -15,18 +15,14 @@ Isso equivale a uma média de 151,6 mil casos por mês, quase 5 mil por dia, 208
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Apresentar a importância deste tema, e, em caráter preventivo, conscientizar a respeito de como os golpes virtuais e estelionatos operam e como evitá-los. Os principais golpes alvos de prática investigativa serão os golpes com Pix e fraudes de cartão de crédito e/ou débito.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+A crescente incidência de fraudes online é um problema sério, afetando milhões de brasileiros e causando prejuízos financeiros e emocionais. Estudos mostram que cerca de 71% dos brasileiros já foram vítimas de pelo menos uma fraude na internet, com destaque para golpes financeiros e roubo de dados bancários. A compra e venda online também é alvo frequente, com cerca de 80 mil golpes registrados, resultando em prejuízos significativos. Além dos prejuízos econômicos para as vítimas, a confiança no comércio eletrônico e nas transações online como um todo está em jogo. É crucial tomar medidas urgentes para combater esses crimes, através de educação digital a respeito de cibersegurança e prevenção a golpes e fraudes. 
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
