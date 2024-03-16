@@ -1,7 +1,7 @@
 # APRESENTAÇÃO - FRAUDES, GOLPES E SEGURANÇA DIGITAL
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: MENTORING II`
 `2024 - Semestre 01`
 
 ## Integrantes
