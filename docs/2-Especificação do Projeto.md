@@ -8,7 +8,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Luís Henrique Dias**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/fotoPersona.png" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Gerente de RH.       |**Atribuições:** Profissional responsável por coordenar o time de RH de uma empresa
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/fotoPersona.png" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Gerente de RH.       |**Atribuições:** Profissional responsável por coordenar o time de RH de uma empresa
 |**Motivações:** Deseja ter acesso fácil ao seu banco, através de um aplicativo, contendo notificações a cada compra e relatórios de extrato banbário.  |**Frustações:** Como gerente de RH, Luís lida com prazos apertados, demandas de diversos setores da empresa e uma carga de trabalho intensa, o que pode ser muito estressante e desafiador. Além de morar sozinho e não ter muito tempo para cuidar da casa.  |**Hobbies, história:** Pretende  começar a se planejar melhor no dia a dia, contendo uma agenda online que ajude-o, sempre tendo horários para cada tarefa, deixando assim seu dia mais organizado e menos corrido.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
