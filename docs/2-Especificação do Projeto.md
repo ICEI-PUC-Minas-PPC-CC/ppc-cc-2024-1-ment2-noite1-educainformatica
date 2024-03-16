@@ -9,7 +9,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 |**Luís Henrique Dias**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/fotoPersona.png" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Gerente de RH.       |**Atribuições:** Profissional responsável por coordenar o time de RH de uma empresa
-|**Motivações:** Deseja ter acesso fácil ao seu banco, através de um aplicativo, contendo notificações a cada compra e relatórios de extrato banbário.  |**Frustações:** Como gerente de RH, Luís lida com prazos apertados, demandas de diversos setores da empresa e uma carga de trabalho intensa, o que pode ser muito estressante e desafiador. Além de morar sozinho e não ter muito tempo para cuidar da casa.  |**Hobbies, história:** Pretende  começar a se planejar melhor no dia a dia, contendo uma agenda online que ajude-o, sempre tendo horários para cada tarefa, deixando assim seu dia mais organizado e menos corrido.
+|**Motivações:** Deseja ter acesso fácil ao seu banco, através de um aplicativo, contendo notificações a cada compra e relatórios de extrato banbário.  |**Frustações:** Recentemente, Luís teve o seu cartão de crédito clonado, o que causou várias dores de cabeça, preocupações financeiras e de consumir tempo e energia para resolver a situação. Além disso possui suas tarefas diárias em casa, que acabam sendo difíceis por causa do tempo. |**Hobbies, história:** Pretende  começar a se planejar melhor no dia a dia, contendo uma agenda online que ajude-o, sempre tendo horários para cada tarefa, deixando assim seu dia mais organizado e menos corrido.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
@@ -31,10 +31,10 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 Exemplo:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO GERENTE DE RH| QUERO/PRECISO DE MAIS SEGURANÇA NO MOMENTO DE REALIZAR UMA COMPRA NO CARTÃO DE CRÉDITO |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO DE TER UM CARTÃO CLONADO E ME TRAZENDO DORES DE CABEÇAS FUTURAS|
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Lúis Henrique | Segurança em ter um cartão de crédito | Podendo realizar compras sem me preocupar com dados pessoais |
+|Lúis Henrique | Poder ter controle financeiro no cartão, tendo em vista relatórios para ajudar na conferência do mês | Padronizar as compras apenas no cartão, me sentindo seguro de que não terei problemas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
