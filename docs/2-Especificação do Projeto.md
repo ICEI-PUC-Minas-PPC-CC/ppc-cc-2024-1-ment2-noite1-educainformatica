@@ -11,6 +11,12 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/fotoPersona.png" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Gerente de RH.       |**Atribuições:** Profissional responsável por coordenar o time de RH de uma empresa
 |**Motivações:** Deseja ter acesso fácil ao seu banco, através de um aplicativo, contendo notificações a cada compra e relatórios de extrato banbário.  |**Frustações:** Recentemente, Luís teve o seu cartão de crédito clonado, o que causou várias dores de cabeça, preocupações financeiras e de consumir tempo e energia para resolver a situação. Além disso possui suas tarefas diárias em casa, que acabam sendo difíceis por causa do tempo. |**Hobbies, história:** Pretende  começar a se planejar melhor no dia a dia, contendo uma agenda online que ajude-o, sempre tendo horários para cada tarefa, deixando assim seu dia mais organizado e menos corrido.
 
+|**Juliana Coelho**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/julianacoelho.jpeg" width="200" height="200"/>|**Idade:** 36 anos. **Naturalidade:** Curitiba - Paraná. **Ocupação:** Fisioterapeuta Esportiva.  |**Atribuições:** Realiza avaliações físicas detalhadas em atletas e pessoas ativas.
+|**Motivações:** Está preocupada com sua segurança e confiança ao fazer compras online novamente. Deseja garantias de que suas transações serão seguras e que ela não será enganada novamente.  |**Frustações:** A principal frustração de Juliana é ter perdido dinheiro devido ao golpe. Ela se sentiu irritada e decepcionada por ter sido enganada e por ter confiado em uma oferta falsa. |**Hobbies, história:** Juliana cresceu em uma família que sempre valorizou um estilo de vida ativo e saudável, desenvolvendo uma paixão pela corrida e pela natureza. Nos momentos de lazer, Juliana se dedica à corrida, à leitura e à fotografia, encontrando conforto e alegria nessas atividades.
+
+
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
