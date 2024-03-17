@@ -42,6 +42,12 @@ Exemplo:
 |Lúis Henrique | Segurança em ter um cartão de crédito | Podendo realizar compras sem me preocupar com dados pessoais |
 |Lúis Henrique | Poder ter controle financeiro no cartão, tendo em vista relatórios para ajudar na conferência do mês | Padronizar as compras apenas no cartão, me sentindo seguro de que não terei problemas |
 
+|EU COMO FISIOTERAPEUTA ESPORTIVA| QUERO/PRECISO DE MAIS SEGURANÇA NO MOMENTO DE REALIZAR UMA COMPRA ONLINE |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO E ME SENTIR ENGANADA NOVAMENTE|
+|--------------------|------------------------------------|----------------------------------------|
+|Juliana Coelho | Segurança em realizar uma compra online | Podendo realizar compras em sites seguros |
+|Juliana Coelho | Poder ter confiabilidade em sites oficiais e ofertas no mesmo | Sentir segurança que não terei prejuizo em comoras futuras |
+
+
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
@@ -68,6 +74,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| Receber ligação do banco a cada compra | MÉDIA | 
 |RNF-002| Deverá abrir o relatório de extrato toda vez que entrar no aplicativo |  BAIXA | 
+
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| Buscar selos de segurança | ALTA | 
+|RF-002| Conferir o certificado SLL no cadeado ao lado da barra de endereços.  | ALTA |
+
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-001| Utilizar métodos de pagamento seguros | MÉDIA | 
+|RNF-002| Evitar redes wi-fi públicas |  BAIXA | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
