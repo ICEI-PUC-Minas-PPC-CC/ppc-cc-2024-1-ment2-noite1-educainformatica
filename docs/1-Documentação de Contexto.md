@@ -29,9 +29,7 @@ A crescente incidência de fraudes online é um problema sério, afetando milhõ
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+O público-alvo desse projeto inclui jovens adultos que estão começando a lidar com transações online, e que podem ser alvos fáceis de golpes devido à falta de familiaridade com a tecnologia. Profissionais mais velhos que podem ter menos exposição à segurança cibernética também podem se beneficiar do projeto. Além disso, indivíduos em posições de autoridade ou influência, como líderes comunitários, professores e profissionais de saúde, podem ser incluídos para disseminar informações e conscientização dentro de suas comunidades.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
