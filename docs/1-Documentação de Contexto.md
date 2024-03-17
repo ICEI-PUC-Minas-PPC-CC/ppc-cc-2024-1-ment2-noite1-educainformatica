@@ -14,7 +14,7 @@ Apresentar a importância deste tema, e, em caráter preventivo, conscientizar a
 
 ## Justificativa
 
-A crescente incidência de fraudes online é um problema sério, afetando milhões de brasileiros e causando prejuízos financeiros e emocionais. Estudos mostram que cerca de 71% dos brasileiros já foram vítimas de pelo menos uma fraude na internet, com destaque para golpes financeiros e roubo de dados bancários. A compra e venda online também é alvo frequente, com cerca de 80 mil golpes registrados, resultando em prejuízos significativos. Além dos prejuízos econômicos para as vítimas, a confiança no comércio eletrônico e nas transações online como um todo está em jogo. É crucial tomar medidas urgentes para combater esses crimes, através de educação digital a respeito de cibersegurança e prevenção a golpes e fraudes. 
+A crescente incidência de fraudes online é um problema sério, afetando milhões de brasileiros e causando prejuízos financeiros. Estudos mostram que cerca de 71% dos brasileiros já foram vítimas de pelo menos uma fraude na internet, com destaque para golpes financeiros e roubo de dados bancários. A compra e venda online também é alvo frequente, com cerca de 80 mil golpes registrados, resultando em prejuízos significativos. Além dos prejuízos econômicos para as vítimas, a confiança no comércio eletrônico e nas transações online como um todo está em jogo. É crucial tomar medidas urgentes para combater esses crimes, através de educação digital a respeito de cibersegurança e prevenção a golpes e fraudes. 
 
 ## Público-Alvo
 
