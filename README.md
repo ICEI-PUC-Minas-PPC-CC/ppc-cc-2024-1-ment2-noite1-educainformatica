@@ -6,7 +6,6 @@
 
 ## Integrantes
 
-- Jeff Bezos
 - Caetano Henrique Muniz Loiola
 - Jonas Henrique Teixeira
 - João Victor Dias Ferreira
