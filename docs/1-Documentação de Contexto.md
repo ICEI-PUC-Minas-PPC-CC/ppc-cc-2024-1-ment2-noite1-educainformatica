@@ -17,7 +17,7 @@ Um estudo descrito pelo site e-commerce brasil (E-COMMERCE BRASIL, 2023) afirma 
 
 _E-COMMERCE BRASIL. No Brasil, 80 mil pessoas já foram vítimas de golpes online em 2023. publicado em 27/10/2023. Disponível em: https://www.ecommercebrasil.com.br/noticias/no-brasil-80-mil-pessoas-ja-foram-vitimas-de-golpes-online-em-2023. Acesso em: 12 mar. 2024._
 
-_NORDVPN. NordVPN revela a relação entre conscientização e exposição. publicado em 25/06/2023. Disponível em: https://nordvpn.com/pt-br/blog/golpes-online-no-brasil/_
+_NORDVPN. NordVPN revela a relação entre conscientização e exposição. publicado em 25/06/2023. Disponível em: https://nordvpn.com/pt-br/blog/golpes-online-no-brasil/. Acesso em: 06 abr. 2024._
 
 _G1. Estelionatos no Brasil mais que quadruplicam em cinco anos, e golpes virtuais disparam após pandemia, revela Anuário. publicado em 20/07/2023. Disponível em: https://g1.globo.com/sp/sao-paulo/noticia/2023/07/20/estelionatos-no-brasil-mais-que-triplicam-em-cinco-anos-e-golpes-virtuais-disparam-apos-pandemia-revela-anuario.ghtml. Acesso em: 16 mar. 2024._
 
