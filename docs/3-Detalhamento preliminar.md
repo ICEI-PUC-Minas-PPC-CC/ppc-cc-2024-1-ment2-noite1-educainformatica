@@ -10,6 +10,28 @@ Neste sentido, neste seção, seu grupo deverá contextualizar e justificar em q
 
 # 2) Detalhamento preliminar
 
+Afim de que haja uma solução aos problemas discorridos a respeito de cybersegurança, segurança da informação, golpes e fraudes virtuais, se faz necessário práticas de conscientização e prevenção a estes citados, de modo que o público-alvo (e demais perfis suscetíveis) tenha meios disponíveis para evitar tais problemas. Deste modo, em vista de que é necessário um trabalho contínuo de educação da população a respeito da problemática, em vista de que é um tema de constante mudança e constante prevenção aos diferentes tipos de golpes e estratégias adotadas pelos criminosos, e ainda em vista de que é um projeto de prática extensionista, serão necessários três propostas de intervenção, sendo estas:
+1. Pesquisa, por meio de formulário online, contendo perguntas a respeito de, estatisticamente, quais golpes são mais frequentes, qual faixa etária é mais frequente tais golpes, qual o grau de experiência com informática a vítima possui, quais meios a vítima adotou para se prevenir de golpes online e, opcionalmente, um relato pessoal. Nenhuma informação pessoal é necessária e não será divulgada. O objetivo desta intervenção é obter dados a respeito dos golpes que acontecem com as pessoas da região, sua frequência e o perfil que os criminosos procuram ao cometer tais golpes. Os relatos poderão, com consentimento do relator, serem compartilhados como futuro material de caráter preventivo e conscientização a respeito do tema.
+2. Campanha de conscientização, através de criação, gerenciamento e divulgação de um site apresentando os dados obtidos a partir da pesquisa (1), de relatos anônimos e explicações sobre os principais golpes cibernéticos, além de meios de prevenção a estes.
+3. Disponibilização de material educacional a respeito do tema, divulgado através de mídias sociais e o site da campanha (2), contendo as informações essenciais a respeito do tema, de modo a divulgar as principais problemáticas e soluções dos problemas aqui apresentados, realizando também a função de atrair novos públicos a pensar a respeito desta problemática.
+
+## Projeto de Interface
+
+A respeito das propostas de intervenção, as ferramentas, meios e prazos serão abordadas separadamente:
+1. A pesquisa será feita por meio da ferramenta web Google Formulários, com divulgação por meio de redes sociais, buscando, preferencialmente, pessoas da região que tenham sido afetadas pela problemática, durando cerca de dez dias.
+2. A campanha de conscientização será feita coletivamente pelos colaboradores do projeto, utilizando: HTML, CSS, JavaScript e frameworks conforme necessidade. O site será hospedado em um domínio particular a decidir.
+3. O material educacional será feito utilizando ferramentas de criação e edição de slides, e posteriormente, divulgadas no site e em redes sociais, tanto em formato de imagem (jpg) para cartões de divulgação, quanto em formato pdf para documentos de explicação mais detalhada a respeito do tema.
+
+## Cronograma preliminar
+
+|Intervenção   | Descrição do conteúdo  | Tempo necessário |
+|------|-----------------------------------------|----|
+|1| Pesquisa sobre a problemática e sua frequência na região  | 10 dias | 
+|2| Criação, hospedagem e divulgação de site   | 14 dias |
+|3| Criação e divulgação de material online   | 5 dias |
+
+_Observação: O tempo necessário é assíncrono de uma intervenção a outra._
+
 Esta seção deverá ser adaptada a proposta do grupo, de forma que:
 a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
 b) Caso seu grupo vá desenvolver cursos/oficinas na PUC, ou na comunidade, um "cronograma preliminar" das atividades a serem realizadas deverá ser proposto.
