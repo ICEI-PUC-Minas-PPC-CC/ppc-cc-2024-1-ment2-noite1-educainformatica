@@ -1,11 +1,14 @@
 # 1) Objetivos de Desenvolvimento Sustentável
+A conscientização e prevenção contra golpes e fraudes online têm relevância em vários dos 17 Objetivos de Desenvolvimento Sustentável (ODS), mas há alguns em que se destacam mais diretamente:
 
-Os 17 objetivos de Desenvolvimento Sustentável defnidos pela ONU (Organização das Nações Unidas) para as cidades, como parte da Agenda 2023, abrangem diferentes temas relacionados a aspectos sociais e ambientais.
+**1. ODS 9 - Indústria, Inovação e Infraestrutura:** A prevenção contra golpes e fraudes online está diretamente relacionada à promoção de tecnologias seguras e infraestrutura digital confiável.
 
-Neste sentido, neste seção, seu grupo deverá contextualizar e justificar em qual dos 17 objetivos de Desenvolvimento Sustentável a temática do problema que seu grupo deseja resolver se encaixa.
+**2. ODS 16 - Paz, Justiça e Instituições Eficazes:** A prevenção de fraudes online contribui para o fortalecimento das instituições eficazes, promovendo a segurança e a confiança nas transações comerciais e financeiras.
 
-> Links úteis:
-> - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
+**3. ODS 17 - Parcerias e Meios de Implementação:** A colaboração entre governos, setor privado e sociedade civil é fundamental para combater fraudes online e promover a segurança digital.
+
+A conscientização e prevenção contra golpes e fraudes online são parte integrante dos esforços para alcançar um desenvolvimento sustentável, promovendo segurança, confiança e transparência nas transações digitais.
+
 
 
 # 2) Detalhamento preliminar
