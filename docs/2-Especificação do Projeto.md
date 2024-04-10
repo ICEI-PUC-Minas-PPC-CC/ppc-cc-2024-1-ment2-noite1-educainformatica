@@ -18,10 +18,10 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO GERENTE DE RH| QUERO/PRECISO DE MAIS SEGURANÇA NO MOMENTO DE REALIZAR UMA COMPRA NO CARTÃO DE CRÉDITO |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO DE TER UM CARTÃO CLONADO E ME TRAZENDO DORES DE CABEÇAS FUTURAS|
 |--------------------|------------------------------------|----------------------------------------|
-|Lúis Henrique | Segurança em ter um cartão de crédito | Podendo realizar compras sem me preocupar com dados pessoais |
+|Lúis Henrique | Um site que me indique os links das lojas ideias e seguras para realizar compras onlines com o cartão de crédito | Podendo realizar compras sem me preocupar com dados pessoais |
 |Lúis Henrique | Poder ter controle financeiro no cartão, tendo em vista relatórios para ajudar na conferência do mês | Padronizar as compras apenas no cartão, me sentindo seguro de que não terei problemas |
 
 |EU COMO FISIOTERAPEUTA ESPORTIVA| QUERO/PRECISO DE MAIS SEGURANÇA NO MOMENTO DE REALIZAR UMA COMPRA ONLINE |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO E ME SENTIR ENGANADA NOVAMENTE|
 |--------------------|------------------------------------|----------------------------------------|
-|Juliana Coelho | Segurança em realizar uma compra online | Podendo realizar compras em sites seguros |
+|Juliana Coelho | Quero o conhecimento de como saber se estou fazendo uma compra segura ou não, com meu cartão de crédito | Podendo realizar compras em sites seguros |
 |Juliana Coelho | Poder ter confiabilidade em sites oficiais e ofertas no mesmo | Sentir segurança que não terei prejuizo em comoras futuras |
