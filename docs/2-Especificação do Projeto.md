@@ -14,7 +14,7 @@
 
 |**Dona Maria da Silva**|           |                             | 
 |-------------------|-----------|-----------------------------|
-**Idade:** 63 anos. **Naturalidade:** Minas Gerais - Campinas. **Ocupação:** Professora.  |**Atribuições:** professora primária na escola local.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/download.jpg" width="200" height="200"/>|**Idade:** 63 anos. **Naturalidade:** Minas Gerais - Campinas. **Ocupação:** Professora.  |**Atribuições:** professora primária na escola local.
 |**Motivações:** Dona Maria é uma mulher de família dedicada, motivada pelo amor e pelo bem-estar de seus entes queridos. Ela se esforça para manter contato próximo com seus filhos e netos, sempre preocupada em ajudá-los da melhor maneira possível.
   |**Frustações:** Recentemente, Dona Maria se viu frustrada e preocupada após cair em um golpe de phishing. A criação de um contato falso no WhatsApp de seu filho a deixou vulnerável e abalou sua confiança no mundo online. Ela se sente desapontada consigo mesma por ter sido enganada e agora está determinada a ser mais cautelosa ao lidar com sua segurança digital.
  |**Hobbies, história:** Nos momentos de lazer, Dona Maria gosta de costurar, cozinhar pratos tradicionais da culinária mineira e cuidar de seu jardim. Ela também é uma ávida leitora e adora passar horas imersa em um bom livro.
