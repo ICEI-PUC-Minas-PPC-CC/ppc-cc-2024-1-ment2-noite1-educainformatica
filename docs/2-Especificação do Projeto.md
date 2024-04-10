@@ -35,5 +35,5 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO PROFESSORA| QUERO/PRECISO DE MAIS SEGURANÇA EM MEU CONHECIMENTO SOBRE A TECNOLOGIA QUE FAZ PARTE DE MINHA ROTINA |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO E ME SENTIR ENGANADA NOVAMENTE|
 |--------------------|------------------------------------|----------------------------------------|
-|Juliana Coelho | Quero o conhecimento de como saber se estou fazendo uma compra segura ou não, com meu cartão de crédito | Podendo realizar compras em sites seguros |
-|Juliana Coelho | Poder ter confiabilidade em sites oficiais e ofertas no mesmo | Sentir segurança que não terei prejuizo em comoras futuras |
+|Dona Maria da Silva | Quero o conhecimento de como saber se estou vulnerável à golpes envolvendo familiares |
+|Dona Maria da Silva | Poder ter confiabilidade em aplicativos de mensagem | Sentir segurança que não serei enganada por pessoas mal intencionadas usando de meus entes queridos para a realização de golpes |
