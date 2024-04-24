@@ -30,7 +30,7 @@ Afim de que haja uma solução aos problemas discorridos a respeito de cybersegu
 
 1. A pesquisa será feita por meio da ferramenta web Google Formulários, com divulgação por meio de redes sociais, buscando, preferencialmente, pessoas da região que tenham sido afetadas pela problemática, durando cerca de dez dias.
 
-Link do formulário: https://forms.gle/mbvR3HHZ7AtsRZez7
+Link do formulário: https://forms.gle/MmdHoYTUrCF1jCnu7
 
 ## Cronograma preliminar
 
