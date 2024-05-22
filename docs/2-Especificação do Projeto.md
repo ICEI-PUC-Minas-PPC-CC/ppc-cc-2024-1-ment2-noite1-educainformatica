@@ -4,8 +4,8 @@
 
 |**Luís Henrique Dias**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/fotoPersona.png" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Gerente de RH.       |**Atribuições:** Profissional responsável por coordenar o time de RH de uma empresa
-|**Motivações:** Deseja ter acesso fácil ao seu banco, através de um aplicativo, contendo notificações a cada compra e relatórios de extrato banbário.  |**Frustações:** Recentemente, Luís teve o seu cartão de crédito clonado, o que causou várias dores de cabeça, preocupações financeiras e de consumir tempo e energia para resolver a situação. Além disso possui suas tarefas diárias em casa, que acabam sendo difíceis por causa do tempo. |**Hobbies, história:** Pretende  começar a se planejar melhor no dia a dia, contendo uma agenda online que ajude-o, sempre tendo horários para cada tarefa, deixando assim seu dia mais organizado e menos corrido.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/fotoPersona.png" width="200" height="200"/>|**Idade:** 54 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Motorista.       |**Atribuições:** Profissional responsável por deslocar alunos de Alto Alegre até outras cidades
+|**Motivações:** Deseja ter segurança ao conversar com seus colegas de trabalho e familiares através de mensagens por Whatsapp.  |**Frustações:** Recentemente, Luís foi abordado por sua mãe no Whatsapp, pedindo para que ele depositasse uma quantia de R$ 4.000,00 em sua conta bancária pois estava precisando em um momento de urgência e não há saldo suficiente, ela pretende devolver o valor em pouco tempo. Luís assentiu e enviou o valor, que se revelou como um contato falso, replicando o contato de sua mãe.|**Hobbies, história:** Pretende  começar a se planejar melhor no dia a dia, contendo uma agenda online que ajude-o, sempre tendo horários para cada tarefa, deixando assim seu dia mais organizado e menos corrido.
 
 |**Juliana Coelho**|           |                             | 
 |-------------------|-----------|-----------------------------|
@@ -21,10 +21,10 @@
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-|EU COMO GERENTE DE RH| QUERO/PRECISO DE MAIS SEGURANÇA NO MOMENTO DE REALIZAR UMA COMPRA NO CARTÃO DE CRÉDITO |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO DE TER UM CARTÃO CLONADO E ME TRAZENDO DORES DE CABEÇAS FUTURAS|
+|EU COMO MOTORISTA| QUERO/PRECISO DE MAIS SEGURANÇA NO MOMENTO DE TROCAR MENSAGENS NO WHATSAPP |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO DE TER UM VALOR EM CONTA ROUBADO E ME TRAZENDO DORES DE CABEÇAS FUTURAS|
 |--------------------|------------------------------------|----------------------------------------|
-|Lúis Henrique | Um site que me indique os links das lojas ideias e seguras para realizar compras onlines com o cartão de crédito | Podendo realizar compras sem me preocupar com dados pessoais |
-|Lúis Henrique | Poder ter controle financeiro no cartão, tendo em vista relatórios para ajudar na conferência do mês | Padronizar as compras apenas no cartão, me sentindo seguro de que não terei problemas |
+|Lúis Henrique | Conscientização ou métodos de perceber que um contato é falso antes de enviar qualquer valor | Podendo realizar transações via whatsapp sem dor de cabeça |
+|Lúis Henrique | Poder ter mais confiança ao ajudar parentes ou amigos financeiramente via whatsapp | Entendendo como identificar contatos falsos |
 
 |EU COMO FISIOTERAPEUTA ESPORTIVA| QUERO/PRECISO DE MAIS SEGURANÇA NO MOMENTO DE REALIZAR UMA COMPRA ONLINE |PARA NÃO CAUSAR NOVAMENTE O PREJUIZO E ME SENTIR ENGANADA NOVAMENTE|
 |--------------------|------------------------------------|----------------------------------------|
