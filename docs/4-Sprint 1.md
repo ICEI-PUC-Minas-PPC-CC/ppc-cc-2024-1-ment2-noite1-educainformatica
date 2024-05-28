@@ -24,4 +24,4 @@ Como definido em sala, esta sprint se dedica ao desenvolvimento de material para
 
 ### 6. Criando senhas fortes
 
-_Link dos slides: [https://www.canva.com/design/DAGDeNpZ0UI/286q4JePGuZEDFUBRQEDBQ/edit?utm_content=DAGDeNpZ0UI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGErGi2P_g/vgKlaliMQd0aUMdL5klJ3A/edit?utm_content=DAGErGi2P_g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)_
+_Link dos slides: https://www.canva.com/design/DAGErGi2P_g/vgKlaliMQd0aUMdL5klJ3A/edit?utm_content=DAGErGi2P_g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
