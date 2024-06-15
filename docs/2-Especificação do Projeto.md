@@ -4,7 +4,7 @@
 
 |**Luís Henrique Dias**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/luis.jpeg" width="200" height="200"/>|**Idade:** 34 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Motorista.       |**Atribuições:** Profissional responsável por deslocar alunos de Alto Alegre até outras cidades
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/luis.jpeg" width="200" height="200"/>|**Idade:** 67 anos. **Naturalidade:** Alto Alegre - São Paulo. **Ocupação:** Motorista.       |**Atribuições:** Profissional responsável por deslocar alunos de Alto Alegre até outras cidades
 |**Motivações:** Deseja ter segurança ao conversar com seus colegas de trabalho e familiares através de mensagens por Whatsapp.  |**Frustações:** Recentemente, Luís foi abordado por sua mãe no Whatsapp, pedindo para que ele depositasse uma quantia de R$ 4.000,00 em sua conta bancária pois estava precisando em um momento de urgência e não há saldo suficiente, ela pretende devolver o valor em pouco tempo. Luís assentiu e enviou o valor, que se revelou como um contato falso, replicando o contato de sua mãe.|**Hobbies, história:** Pretende  começar a se planejar melhor no dia a dia, contendo uma agenda online que ajude-o, sempre tendo horários para cada tarefa, deixando assim seu dia mais organizado e menos corrido.
 
 |**Juliana Coelho**|           |                             | 
