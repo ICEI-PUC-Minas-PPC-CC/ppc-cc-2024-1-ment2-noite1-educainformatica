@@ -10,6 +10,3 @@ Ascensão dos Golpes Digitais: Como evitar golpes na internet
 
 ## Pitch de apresentação
 
- <video controls>
-  <source src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-educainformatica/blob/main/docs/img/video.mp4" type="video/mp4">
-</video> 
